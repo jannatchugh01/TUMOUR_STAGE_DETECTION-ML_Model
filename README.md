@@ -12,4 +12,4 @@ The outputs of website are as:
 2. 1 -> Stage2
 3. 2 -> Stage3
 ## Accuracy:
-The model is 69.98% accurate.
+The model is 68.98% accurate.
